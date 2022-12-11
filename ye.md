@@ -1,1 +1,2 @@
 opp
+död stopper
